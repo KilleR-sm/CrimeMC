@@ -1,0 +1,2 @@
+# CrimeMC
+CrimeMC embed bot
